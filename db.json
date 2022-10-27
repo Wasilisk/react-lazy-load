@@ -1,0 +1,209 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "profileInfo": {
+                "id": 1,
+                "userAvatar": "https://media-exp1.licdn.com/dms/image/D4E35AQEzzANMbeV1HA/profile-framedphoto-shrink_100_100/0/1660309180504?e=1667386800&v=beta&t=8b_YewsgSO4Iqwydt-G8uZ9zxW1R6skW310mYljk09g",
+                "username": "Vladyslav Halchyshak",
+                "headline": "Trainee/Junior Full-stack developer: [HTML, CSS, Sass, React, Redux, Node.js]"
+            },
+            "media": {
+                "mediaSrc": "https://media-exp1.licdn.com/dms/image/C5622AQEnGjubbtSQvQ/feedshare-shrink_800/0/1666620002405?e=1669852800&v=beta&t=VyrxFkPhpAvsTDLKkr0n4ZEgZotXEOGwYgnNv7I4Lb4",
+                "alt": "media-image"
+            },
+            "textContent": "One thing we can all agree on…"
+        },
+        {
+            "id": 2,
+            "profileInfo": {
+                "id": 2,
+                "userAvatar": "https://media-exp1.licdn.com/dms/image/D4E03AQFtxvzATdrXow/profile-displayphoto-shrink_100_100/0/1664818156193?e=1672272000&v=beta&t=Y98vg2v2rRfeIws_jS7MXqraXkz7GQu3B31upw0B9Dw",
+                "username": "Oksana Fedenko",
+                "headline": "HRD Akvantis"
+            },
+            "media": {
+                "mediaSrc": "https://media-exp1.licdn.com/dms/image/C4D22AQHqlmBhXn3rmQ/feedshare-shrink_800/0/1666377133705?e=1669852800&v=beta&t=0goLXL8bFyEp9iv0a1HFO3Cx7fWk5scHKNSGnVs7zlw",
+                "alt": "media-image"
+            },
+            "textContent": "Коли дізнався, що посада знову вакантна"
+        },
+        {
+            "id": 3,
+            "profileInfo": {
+                "id": 3,
+                "userAvatar": "https://media-exp1.licdn.com/dms/image/D4E03AQGnJOuribkUEQ/profile-displayphoto-shrink_100_100/0/1664368878072?e=1672272000&v=beta&t=Key9Qmqo89khQ-NCdyXrA2ea43iv4LZ_qxRVEzA0f-o",
+                "username": "Tetiana Bahyra",
+                "headline": "Ruby/RoR Engineer"
+            },
+            "media": {
+                "mediaSrc": "https://media-exp1.licdn.com/dms/image/C4D22AQEko0xxlV7RMQ/feedshare-shrink_800/0/1666378817465?e=1669852800&v=beta&t=xPHGf8xWWP-eo-cLIJYt3YYDIo9ZFWfwFBE7z-s06Bg",
+                "alt": "media-image"
+            },
+            "textContent": "Hello, my dream job ❤️ My first day👩‍💻"
+        },
+        {
+            "id": 4,
+            "profileInfo": {
+                "id": 1,
+                "userAvatar": "https://media-exp1.licdn.com/dms/image/D4E35AQEzzANMbeV1HA/profile-framedphoto-shrink_100_100/0/1660309180504?e=1667386800&v=beta&t=8b_YewsgSO4Iqwydt-G8uZ9zxW1R6skW310mYljk09g",
+                "username": "Vladyslav Halchyshak",
+                "headline": "Trainee/Junior Full-stack developer: [HTML, CSS, Sass, React, Redux, Node.js]"
+            },
+            "media": {
+                "mediaSrc": "https://media-exp1.licdn.com/dms/image/C5622AQEnGjubbtSQvQ/feedshare-shrink_800/0/1666620002405?e=1669852800&v=beta&t=VyrxFkPhpAvsTDLKkr0n4ZEgZotXEOGwYgnNv7I4Lb4",
+                "alt": "media-image"
+            },
+            "textContent": "One thing we can all agree on…"
+        },
+        {
+            "id": 5,
+            "profileInfo": {
+                "id": 2,
+                "userAvatar": "https://media-exp1.licdn.com/dms/image/D4E03AQFtxvzATdrXow/profile-displayphoto-shrink_100_100/0/1664818156193?e=1672272000&v=beta&t=Y98vg2v2rRfeIws_jS7MXqraXkz7GQu3B31upw0B9Dw",
+                "username": "Oksana Fedenko",
+                "headline": "HRD Akvantis"
+            },
+            "media": {
+                "mediaSrc": "https://media-exp1.licdn.com/dms/image/C4D22AQHqlmBhXn3rmQ/feedshare-shrink_800/0/1666377133705?e=1669852800&v=beta&t=0goLXL8bFyEp9iv0a1HFO3Cx7fWk5scHKNSGnVs7zlw",
+                "alt": "media-image"
+            },
+            "textContent": "Коли дізнався, що посада знову вакантна"
+        },
+        {
+            "id": 6,
+            "profileInfo": {
+                "id": 3,
+                "userAvatar": "https://media-exp1.licdn.com/dms/image/D4E03AQGnJOuribkUEQ/profile-displayphoto-shrink_100_100/0/1664368878072?e=1672272000&v=beta&t=Key9Qmqo89khQ-NCdyXrA2ea43iv4LZ_qxRVEzA0f-o",
+                "username": "Tetiana Bahyra",
+                "headline": "Ruby/RoR Engineer"
+            },
+            "media": {
+                "mediaSrc": "https://media-exp1.licdn.com/dms/image/C4D22AQEko0xxlV7RMQ/feedshare-shrink_800/0/1666378817465?e=1669852800&v=beta&t=xPHGf8xWWP-eo-cLIJYt3YYDIo9ZFWfwFBE7z-s06Bg",
+                "alt": "media-image"
+            },
+            "textContent": "Hello, my dream job ❤️ My first day👩‍💻"
+        },
+        {
+            "id": 7,
+            "profileInfo": {
+                "id": 1,
+                "userAvatar": "https://media-exp1.licdn.com/dms/image/D4E35AQEzzANMbeV1HA/profile-framedphoto-shrink_100_100/0/1660309180504?e=1667386800&v=beta&t=8b_YewsgSO4Iqwydt-G8uZ9zxW1R6skW310mYljk09g",
+                "username": "Vladyslav Halchyshak",
+                "headline": "Trainee/Junior Full-stack developer: [HTML, CSS, Sass, React, Redux, Node.js]"
+            },
+            "media": {
+                "mediaSrc": "https://media-exp1.licdn.com/dms/image/C5622AQEnGjubbtSQvQ/feedshare-shrink_800/0/1666620002405?e=1669852800&v=beta&t=VyrxFkPhpAvsTDLKkr0n4ZEgZotXEOGwYgnNv7I4Lb4",
+                "alt": "media-image"
+            },
+            "textContent": "One thing we can all agree on…"
+        },
+        {
+            "id": 8,
+            "profileInfo": {
+                "id": 2,
+                "userAvatar": "https://media-exp1.licdn.com/dms/image/D4E03AQFtxvzATdrXow/profile-displayphoto-shrink_100_100/0/1664818156193?e=1672272000&v=beta&t=Y98vg2v2rRfeIws_jS7MXqraXkz7GQu3B31upw0B9Dw",
+                "username": "Oksana Fedenko",
+                "headline": "HRD Akvantis"
+            },
+            "media": {
+                "mediaSrc": "https://media-exp1.licdn.com/dms/image/C4D22AQHqlmBhXn3rmQ/feedshare-shrink_800/0/1666377133705?e=1669852800&v=beta&t=0goLXL8bFyEp9iv0a1HFO3Cx7fWk5scHKNSGnVs7zlw",
+                "alt": "media-image"
+            },
+            "textContent": "Коли дізнався, що посада знову вакантна"
+        },
+        {
+            "id": 9,
+            "profileInfo": {
+                "id": 3,
+                "userAvatar": "https://media-exp1.licdn.com/dms/image/D4E03AQGnJOuribkUEQ/profile-displayphoto-shrink_100_100/0/1664368878072?e=1672272000&v=beta&t=Key9Qmqo89khQ-NCdyXrA2ea43iv4LZ_qxRVEzA0f-o",
+                "username": "Tetiana Bahyra",
+                "headline": "Ruby/RoR Engineer"
+            },
+            "media": {
+                "mediaSrc": "https://media-exp1.licdn.com/dms/image/C4D22AQEko0xxlV7RMQ/feedshare-shrink_800/0/1666378817465?e=1669852800&v=beta&t=xPHGf8xWWP-eo-cLIJYt3YYDIo9ZFWfwFBE7z-s06Bg",
+                "alt": "media-image"
+            },
+            "textContent": "Hello, my dream job ❤️ My first day👩‍💻"
+        },
+        {
+            "id": 10,
+            "profileInfo": {
+                "id": 3,
+                "userAvatar": "https://media-exp1.licdn.com/dms/image/D4E03AQGnJOuribkUEQ/profile-displayphoto-shrink_100_100/0/1664368878072?e=1672272000&v=beta&t=Key9Qmqo89khQ-NCdyXrA2ea43iv4LZ_qxRVEzA0f-o",
+                "username": "Tetiana Bahyra",
+                "headline": "Ruby/RoR Engineer"
+            },
+            "media": {
+                "mediaSrc": "https://media-exp1.licdn.com/dms/image/C4D22AQEko0xxlV7RMQ/feedshare-shrink_800/0/1666378817465?e=1669852800&v=beta&t=xPHGf8xWWP-eo-cLIJYt3YYDIo9ZFWfwFBE7z-s06Bg",
+                "alt": "media-image"
+            },
+            "textContent": "Hello, my dream job ❤️ My first day👩‍💻"
+        },
+        {
+            "id": 11,
+            "profileInfo": {
+                "id": 1,
+                "userAvatar": "https://media-exp1.licdn.com/dms/image/D4E35AQEzzANMbeV1HA/profile-framedphoto-shrink_100_100/0/1660309180504?e=1667386800&v=beta&t=8b_YewsgSO4Iqwydt-G8uZ9zxW1R6skW310mYljk09g",
+                "username": "Vladyslav Halchyshak",
+                "headline": "Trainee/Junior Full-stack developer: [HTML, CSS, Sass, React, Redux, Node.js]"
+            },
+            "media": {
+                "mediaSrc": "https://media-exp1.licdn.com/dms/image/C5622AQEnGjubbtSQvQ/feedshare-shrink_800/0/1666620002405?e=1669852800&v=beta&t=VyrxFkPhpAvsTDLKkr0n4ZEgZotXEOGwYgnNv7I4Lb4",
+                "alt": "media-image"
+            },
+            "textContent": "One thing we can all agree on…"
+        },
+        {
+            "id": 12,
+            "profileInfo": {
+                "id": 2,
+                "userAvatar": "https://media-exp1.licdn.com/dms/image/D4E03AQFtxvzATdrXow/profile-displayphoto-shrink_100_100/0/1664818156193?e=1672272000&v=beta&t=Y98vg2v2rRfeIws_jS7MXqraXkz7GQu3B31upw0B9Dw",
+                "username": "Oksana Fedenko",
+                "headline": "HRD Akvantis"
+            },
+            "media": {
+                "mediaSrc": "https://media-exp1.licdn.com/dms/image/C4D22AQHqlmBhXn3rmQ/feedshare-shrink_800/0/1666377133705?e=1669852800&v=beta&t=0goLXL8bFyEp9iv0a1HFO3Cx7fWk5scHKNSGnVs7zlw",
+                "alt": "media-image"
+            },
+            "textContent": "Коли дізнався, що посада знову вакантна"
+        },
+        {
+            "id": 13,
+            "profileInfo": {
+                "id": 3,
+                "userAvatar": "https://media-exp1.licdn.com/dms/image/D4E03AQGnJOuribkUEQ/profile-displayphoto-shrink_100_100/0/1664368878072?e=1672272000&v=beta&t=Key9Qmqo89khQ-NCdyXrA2ea43iv4LZ_qxRVEzA0f-o",
+                "username": "Tetiana Bahyra",
+                "headline": "Ruby/RoR Engineer"
+            },
+            "media": {
+                "mediaSrc": "https://media-exp1.licdn.com/dms/image/C4D22AQEko0xxlV7RMQ/feedshare-shrink_800/0/1666378817465?e=1669852800&v=beta&t=xPHGf8xWWP-eo-cLIJYt3YYDIo9ZFWfwFBE7z-s06Bg",
+                "alt": "media-image"
+            },
+            "textContent": "Hello, my dream job ❤️ My first day👩‍💻"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "userAvatar": "https://media-exp1.licdn.com/dms/image/D4E35AQEzzANMbeV1HA/profile-framedphoto-shrink_100_100/0/1660309180504?e=1667386800&v=beta&t=8b_YewsgSO4Iqwydt-G8uZ9zxW1R6skW310mYljk09g",
+            "username": "Vladyslav Halchyshak",
+            "headline": "Trainee/Junior Full-stack developer: [HTML, CSS, Sass, React, Redux, Node.js]",
+            "friendsCount": 512
+        },
+        {
+            "id": 2,
+            "userAvatar": "https://media-exp1.licdn.com/dms/image/D4E03AQFtxvzATdrXow/profile-displayphoto-shrink_100_100/0/1664818156193?e=1672272000&v=beta&t=Y98vg2v2rRfeIws_jS7MXqraXkz7GQu3B31upw0B9Dw",
+            "username": "Oksana Fedenko",
+            "headline": "HRD Akvantis",
+            "friendsCount": 131
+        },
+        {
+            "id": 3,
+            "userAvatar": "https://media-exp1.licdn.com/dms/image/D4E03AQGnJOuribkUEQ/profile-displayphoto-shrink_100_100/0/1664368878072?e=1672272000&v=beta&t=Key9Qmqo89khQ-NCdyXrA2ea43iv4LZ_qxRVEzA0f-o",
+            "username": "Tetiana Bahyra",
+            "headline": "Ruby/RoR Engineer",
+            "friendsCount": 41
+        }
+    ]
+}

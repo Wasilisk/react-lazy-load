@@ -1,0 +1,1 @@
+export {Favorite as FavoriteIcon} from '@mui/icons-material';

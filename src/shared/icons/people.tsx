@@ -1,0 +1,1 @@
+export {People as PeopleIcon} from '@mui/icons-material';
